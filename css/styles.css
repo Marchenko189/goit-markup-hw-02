@@ -1,0 +1,24 @@
+body {font-family: "Roboto", sans-serif;
+color: #2E2F42;
+background-color: #fff;}
+.link:hover, .link:focus {color: #4D5AE5;}
+.btn_order:hover, .btn_order:focus {color: #4D5AE5;}
+.link_address:hover, .link_address:focus {color: #4D5AE5;}
+.logo {font-size: 18px;
+line-height: 1.17;}
+.link {font-size: 16px; line-height: 1.5; font-weight: 500;}
+.link_address {font-size: 16px; line-height: 1.5; font-weight: 400;}
+h1 {font-size: 56px; line-height: 1.07;
+color: #fff; font-weight: 700;}
+.btn_order {font-size: 16px; line-height: 1.5; font-weight: 500;
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+color: #fff;  background-color: #4d5ae5;
+cursor: pointer;}
+h2 {font-size: 36px; line-height: 1.11; font-weight: 700;}
+h3 {font-size: 20px; line-height: 1.2; font-weight: 500;}
+.txt_main {font-size: 16px; line-height: 1.5; color: #434455}
+.footer_txt {font-size: 16px;
+    line-height: 1.5; color: #f4f4fd;}
+.title_section {background-color: #2e2f42;}
+.our_team {background-color: #f4f4fd;}
+.footer {background-color: #2E2F42;}
