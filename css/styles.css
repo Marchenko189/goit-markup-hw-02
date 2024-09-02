@@ -15,12 +15,13 @@ color: #fff; font-weight: 700; text-align: center; letter-spacing: 0.02em;}
 color: #fff;  background-color: #4d5ae5; letter-spacing: 0.04em;
 cursor: pointer;}
 .btn_order:hover, .btn_order:focus {background-color: #404BBF;}
-.title_2 {font-size: 36px; line-height: 1.11; font-weight: 700; text-align: center; letter-spacing: 0.02em; text-transform: capitalize;}
-.title_3 {font-size: 20px; line-height: 1.2; font-weight: 500; letter-spacing: 0.02em;}
+.title_two {font-size: 36px; line-height: 1.11; font-weight: 700; text-align: center; letter-spacing: 0.02em; text-transform: capitalize; color:#2e2f42;}
+.title_three {font-size: 20px; line-height: 1.2; font-weight: 500; letter-spacing: 0.02em; color:#2e2f42;}
 .txt_main {font-size: 16px; line-height: 1.5; color: #434455; letter-spacing: 0.02em;}
+.team_name {background-color: #FFFFFF;}
 .footer_txt {font-size: 16px;
-    line-height: 1.5; color: #ffffff;}
+    line-height: 1.5; letter-spacing: 0.02em; color: #F4F4FD;}
 .title_section {background-color: #2e2f42;}
-.our_team {background-color: #ffffff;}
+.our_team {background-color: #F4F4FD;}
 .footer {background-color: #2E2F42;}
 .accent_footer {color: #f4f4fd;}
