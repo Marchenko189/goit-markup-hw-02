@@ -1,24 +1,26 @@
 body {font-family: "Roboto", sans-serif;
-color: #2E2F42;
+color: #434455;
 background-color: #fff;}
-.link:hover, .link:focus {color: #4D5AE5;}
-.btn_order:hover, .btn_order:focus {color: #4D5AE5;}
-.link_address:hover, .link_address:focus {color: #4D5AE5;}
-.logo {font-size: 18px;
-line-height: 1.17;}
-.link {font-size: 16px; line-height: 1.5; font-weight: 500;}
-.link_address {font-size: 16px; line-height: 1.5; font-weight: 400;}
-h1 {font-size: 56px; line-height: 1.07;
-color: #fff; font-weight: 700;}
+.link:hover, .link:focus {color: #404bbf;}
+.accent_header {color: #2e2f42;}
+.logo {font-family: "Raleway", sans-serif; font-size: 18px;
+line-height: 1.17; font-weight: 700; letter-spacing: 0.03em; text-transform: uppercase; color: #4d5ae5;}
+.link {font-size: 16px; line-height: 1.5; font-weight: 500; letter-spacing: 0.02em; color: #2e2f42;}
+.address {font-style: normal;}
+.link_address {font-size: 16px; line-height: 1.5; font-weight: 400; letter-spacing: 0.02em; color: #434455;}
+.link_address:hover, .link_address:focus {color: #404bbf;}
+.title {font-size: 56px; line-height: 1.07;
+color: #fff; font-weight: 700; text-align: center; letter-spacing: 0.02em;}
 .btn_order {font-size: 16px; line-height: 1.5; font-weight: 500;
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-color: #fff;  background-color: #4d5ae5;
+color: #fff;  background-color: #4d5ae5; letter-spacing: 0.04em;
 cursor: pointer;}
-h2 {font-size: 36px; line-height: 1.11; font-weight: 700;}
-h3 {font-size: 20px; line-height: 1.2; font-weight: 500;}
-.txt_main {font-size: 16px; line-height: 1.5; color: #434455}
+.btn_order:hover, .btn_order:focus {background-color: #404BBF;}
+.title_2 {font-size: 36px; line-height: 1.11; font-weight: 700; text-align: center; letter-spacing: 0.02em; text-transform: capitalize;}
+.title_3 {font-size: 20px; line-height: 1.2; font-weight: 500; letter-spacing: 0.02em;}
+.txt_main {font-size: 16px; line-height: 1.5; color: #434455; letter-spacing: 0.02em;}
 .footer_txt {font-size: 16px;
-    line-height: 1.5; color: #f4f4fd;}
+    line-height: 1.5; color: #ffffff;}
 .title_section {background-color: #2e2f42;}
-.our_team {background-color: #f4f4fd;}
+.our_team {background-color: #ffffff;}
 .footer {background-color: #2E2F42;}
+.accent_footer {color: #f4f4fd;}
