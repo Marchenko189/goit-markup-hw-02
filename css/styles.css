@@ -54,7 +54,7 @@ body {
     letter-spacing: 0.04em;
     cursor: pointer;
 }
-.btn:hover, .btn_order:focus {
+.btn:hover, .btn:focus {
     background-color: #404BBF;
 }
 .title_two {
